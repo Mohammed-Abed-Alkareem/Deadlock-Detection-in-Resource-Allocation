@@ -95,7 +95,7 @@ This project implements a deadlock detection algorithm for a system with N proce
 
 
 ## Output Screenshot
-![Deadlock Detection Output](https://user-images.githubusercontent.com/.../screenshot.png)
+![Deadlock Detection Output](/screenshots/output_1.jpg)
 
 ## Authors
 
